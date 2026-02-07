@@ -4,8 +4,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 5
-- **Easy:** 5 🟢
+- **Total Problems Solved:** 6
+- **Easy:** 6 🟢
 - **Medium:** 0 🟡
 - **Hard:** 0 🔴
 
@@ -17,6 +17,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/submissions/1905867199/) | 🟢 Easy | cpp | 2026-02-02 |
 | [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/submissions/1908257961/) | 🟢 Easy | c | 2026-02-04 |
 | [27. Remove Element](https://leetcode.com/problems/remove-element/submissions/1908990351/) | 🟢 Easy | c | 2026-02-05 |
+| [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/submissions/1911483657/) | 🟢 Easy | c | 2026-02-07 |
 | [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/submissions/1910438232/) | 🟢 Easy | c | 2026-02-06 |
 
 ---
