@@ -4,8 +4,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 7
-- **Easy:** 7 🟢
+- **Total Problems Solved:** 8
+- **Easy:** 8 🟢
 - **Medium:** 0 🟡
 - **Hard:** 0 🔴
 
@@ -19,6 +19,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [231. Power of Two](https://leetcode.com/problems/power-of-two/submissions/1912129139/) | 🟢 Easy | c | 2026-02-08 |
 | [27. Remove Element](https://leetcode.com/problems/remove-element/submissions/1908990351/) | 🟢 Easy | c | 2026-02-05 |
 | [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/submissions/1911483657/) | 🟢 Easy | c | 2026-02-07 |
+| [509. Fibonacci Number](https://leetcode.com/problems/fibonacci-number/submissions/1912214253/) | 🟢 Easy | c | 2026-02-08 |
 | [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/submissions/1910438232/) | 🟢 Easy | c | 2026-02-06 |
 
 ---
