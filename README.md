@@ -4,8 +4,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 10
-- **Easy:** 10 🟢
+- **Total Problems Solved:** 11
+- **Easy:** 11 🟢
 - **Medium:** 0 🟡
 - **Hard:** 0 🔴
 
@@ -22,6 +22,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [344. Reverse String](https://leetcode.com/problems/reverse-string/submissions/1915918097/) | 🟢 Easy | c | 2026-02-11 |
 | [350. Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/submissions/1915926618/) | 🟢 Easy | c | 2026-02-11 |
 | [509. Fibonacci Number](https://leetcode.com/problems/fibonacci-number/submissions/1912214253/) | 🟢 Easy | c | 2026-02-08 |
+| [766. Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/) | 🟢 Easy | c | 2026-02-15 |
 | [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/submissions/1910438232/) | 🟢 Easy | c | 2026-02-06 |
 
 ---
