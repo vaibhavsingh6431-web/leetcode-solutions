@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 14
+- **Total Problems Solved:** 15
 - **Easy:** 11 🟢
-- **Medium:** 3 🟡
+- **Medium:** 4 🟡
 - **Hard:** 0 🔴
 
 ## 📝 Problems
@@ -26,6 +26,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/submissions/1910438232/) | 🟢 Easy | c | 2026-02-06 |
 | [189. Rotate Array](https://leetcode.com/problems/rotate-array/submissions/1928942019/) | 🟡 Medium | c | 2026-02-23 |
 | [48. Rotate Image](https://leetcode.com/problems/rotate-image/) | 🟡 Medium | c | 2026-02-22 |
+| [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/submissions/1928950423/) | 🟡 Medium | c | 2026-02-23 |
 | [73. Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/submissions/1927785866/) | 🟡 Medium | c | 2026-02-22 |
 
 ---
