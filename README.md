@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 17
+- **Total Problems Solved:** 18
 - **Easy:** 11 🟢
-- **Medium:** 6 🟡
+- **Medium:** 7 🟡
 - **Hard:** 0 🔴
 
 ## 📝 Problems
@@ -29,6 +29,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [48. Rotate Image](https://leetcode.com/problems/rotate-image/) | 🟡 Medium | c | 2026-02-22 |
 | [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/submissions/1928950423/) | 🟡 Medium | c | 2026-02-23 |
 | [73. Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/submissions/1927785866/) | 🟡 Medium | c | 2026-02-22 |
+| [918. Maximum Sum Circular Subarray](https://leetcode.com/problems/maximum-sum-circular-subarray/submissions/1935276511/) | 🟡 Medium | c | 2026-03-02 |
 | [918. Maximum Sum Circular Subarray](https://leetcode.com/problems/maximum-sum-circular-subarray/submissions/1935276511/) | 🟡 Medium | c | 2026-03-02 |
 
 ---
